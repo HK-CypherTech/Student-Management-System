@@ -3,45 +3,45 @@ Student Management System (SMS) in C# using the MVC structure.
 
 Core Functionalities for Student Management System
 <Br>
-1️⃣ User Authentication
-Login System (Admin, Teachers, Students)
+1️⃣ User Authentication<Br>
+Login System (Admin, Teachers, Students)<Br>
 Role-based Access Control (Admin can manage everything, teachers can manage students, students can view their profiles)<Br>
-2️⃣ Student Management
-Add New Student (Name, Age, Gender, Address, Parent Contact, Admission Date)
-Edit Student Details
-Delete Student Records
+2️⃣ Student Management<Br>
+Add New Student (Name, Age, Gender, Address, Parent Contact, Admission Date)<Br>
+Edit Student Details<Br>
+Delete Student Records<Br>
 View/Search Student Details<Br>
-3️⃣ Teacher Management
-Add New Teacher (Name, Subject, Qualification, Contact)
-Edit Teacher Details
-Delete Teacher Records
+3️⃣ Teacher Management<Br>
+Add New Teacher (Name, Subject, Qualification, Contact)<Br>
+Edit Teacher Details<Br>
+Delete Teacher Records<Br>
 View/Search Teacher Details<Br>
-4️⃣ Course Management
-Add New Courses (Course Name, Duration, Fees)
-Edit Course Details
-Delete Course
+4️⃣ Course Management<Br>
+Add New Courses (Course Name, Duration, Fees)<Br>
+Edit Course Details<Br>
+Delete Course<Br>
 Assign Courses to Students<Br>
-5️⃣ Classroom Management
-Assign Students to Classes
-Assign Teachers to Classes
+5️⃣ Classroom Management<Br>
+Assign Students to Classes<Br>
+Assign Teachers to Classes<Br>
 View Class Schedules<Br>
-6️⃣ Attendance System
-Mark Attendance for Students
+6️⃣ Attendance System<Br>
+Mark Attendance for Students<Br>
 Generate Attendance Reports<Br>
-7️⃣ Exam & Grades Management
-Schedule Exams
-Enter Student Marks
-Generate Report Cards
+7️⃣ Exam & Grades Management<Br>
+Schedule Exams<Br>
+Enter Student Marks<Br>
+Generate Report Cards<Br>
 View Student Performance Analysis<Br>
-8️⃣ Fee Management
-Record Student Fees Payment
-Generate Fee Receipts
+8️⃣ Fee Management<Br>
+Record Student Fees Payment<Br>
+Generate Fee Receipts<Br>
 View Pending Fees Reports<Br>
-9️⃣ Library Management (Optional)
-Issue Books to Students
-Return Books
+9️⃣ Library Management (Optional)<Br>
+Issue Books to Students<Br>
+Return Books<Br>
 Track Book Availability<Br>
-🔟 Admin Dashboard
-Overview of Total Students, Teachers, and Courses
-Graphs & Charts for Student Performance & Attendance
+🔟 Admin Dashboard<Br>
+Overview of Total Students, Teachers, and Courses<Br>
+Graphs & Charts for Student Performance & Attendance<Br>
 Quick Actions for Management<Br>
